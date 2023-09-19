@@ -2,3 +2,4 @@ HC RESOLUSI
 - Konsisten belajar dan latihan coding setiap hari
 - Membuat website official pertama saya di tahun ini
 - Jangan menyerah dan tetap berusaha 
+- Bismillah jadi programmer frontend
