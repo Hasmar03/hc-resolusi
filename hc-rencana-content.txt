@@ -3,6 +3,8 @@ RENCANA KONTEN HC
 -HTML
 * Heading
 * Body
-- Struktur Data Dasar
+  ^ Angular
+  ^ React
 -CSS
+  ^ Layouting
 -A Day in My Life
