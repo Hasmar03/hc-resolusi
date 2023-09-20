@@ -3,5 +3,6 @@ RENCANA KONTEN HC
 -HTML
 * Heading
 * Body
+- Struktur Data Dasar
 -CSS
 -A Day in My Life
