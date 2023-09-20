@@ -3,8 +3,10 @@ RENCANA KONTEN HC
 -HTML
 * Heading
 * Body
-  ^ Angular
+  ^ vue
   ^ React
+- Struktur Data Dasar
 -CSS
-  ^ Layouting
+  ^Layouting
 -A Day in My Life
+- Python
