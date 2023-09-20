@@ -4,6 +4,7 @@ RENCANA KONTEN HC
 * Heading
 * Body
   ^ vue
+  ^ React
 - Struktur Data Dasar
 -CSS
   ^Layouting
